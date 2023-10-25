@@ -11,10 +11,10 @@ Certainly, I'll provide you with example documents for each collection based on 
 **Users Collection Documents**:
 ```json
 {
-    "firstName": "John",
-    "lastName": "Doe",
-    "jobTitle": "Developer",
-    "position": "Senior",
+    "firstName": "Joel",
+    "lastName": "owell",
+    "jobTitle": "Soft Developer",
+    "position": "junior",
     "role": "Employee",
     "departmentId": ObjectId("5f49ccaa1946f875f207fc56")  // Reference to a department
 }
